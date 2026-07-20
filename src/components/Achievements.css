@@ -1,0 +1,42 @@
+.achievement-card {
+  display: flex;
+  gap: 24px;
+  align-items: flex-start;
+  max-width: 850px;
+}
+
+.achievement-icon {
+  flex-shrink: 0;
+  width: 56px;
+  height: 56px;
+  border-radius: 16px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background: linear-gradient(135deg, rgba(234, 179, 8, 0.15), rgba(234, 179, 8, 0.05));
+  border: 1px solid rgba(234, 179, 8, 0.3);
+  font-size: 1.6rem;
+}
+
+.achievement-card h3 {
+  font-size: 1.15rem;
+  font-weight: 700;
+  margin-bottom: 6px;
+}
+
+.achievement-role {
+  display: inline-block;
+  font-size: 0.78rem;
+  color: #eab308;
+  font-weight: 600;
+  margin-bottom: 12px;
+  padding: 3px 10px;
+  border-radius: 6px;
+  background: rgba(234, 179, 8, 0.08);
+}
+
+.achievement-card p {
+  color: var(--text-secondary);
+  font-size: 0.95rem;
+  line-height: 1.75;
+}
