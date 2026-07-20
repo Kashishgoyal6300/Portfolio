@@ -6,7 +6,7 @@ export const personalInfo = {
   email: 'kashishgoyal0003@gmail.com',
   phone: '+91 9417612395',
   whatsapp: '919417612395',
-  linkedin: 'https://linkedin.com/in/kashish-goyal',
+  linkedin: 'https://www.linkedin.com/in/kashish-goyal-421572267/',
   github: 'https://github.com/Kashishgoyal6300',
   resumePath: '/Kashish_Resume.pdf',
 };

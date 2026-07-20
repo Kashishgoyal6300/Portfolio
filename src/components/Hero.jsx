@@ -45,7 +45,7 @@ export default function Hero() {
         <motion.div className="hero-typing" variants={item}>
           <span className="typing-prefix"></span>
           <TypingText words={typingRoles} />
-        </motion.div>https://www.linkedin.com/in/kashish-goyal-421572267/
+        </motion.div>
 
         <motion.p className="hero-tagline" variants={item}>
           {personalInfo.tagline}
